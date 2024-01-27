@@ -1,6 +1,8 @@
+#Python Learning Tasks. Lesson 2
+
 **Задание 0. Приведение типов**
 
-1. Создайте файл lesson_2_task_0.py.
+1. [Link to lesson_2_task_0.py](https://github.com/mboldacova/SkyPro-Lesson-2/blob/main/lesson_2_task_0.py)
 2. Создайте переменную my_age.
 3. Задайте значение переменной через функцию input.
 4. Запустите скрипт и введите в консоль ваш возраст.
